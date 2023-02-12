@@ -6,7 +6,6 @@ const image2 = document.getElementById('image2');
 const image3 = document.getElementById('image3');
 const textBox = document.getElementById('text-box');
 
-
 //For light and dark mode image
 function imageMode(color) {
     image1.src = `img/undraw_proud_coder_${color}.svg`;
